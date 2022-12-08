@@ -1,0 +1,1 @@
+{"name": "My_app", "version": "1.0.1", "author": "Rena", "server": {"port": 2024, "port2": 2025}, "openInBrowser": true, "dist": {"fonts": "Pier Sans", "img": "icon.png"}}
